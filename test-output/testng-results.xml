@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[loginPage]]>
+    </line>
+    <line>
+      <![CDATA[homePage]]>
+    </line>
+    <line>
+      <![CDATA[logOutPage]]>
+    </line>
+    <line>
+      <![CDATA[loginPage]]>
+    </line>
+    <line>
+      <![CDATA[leadsPage]]>
+    </line>
+    <line>
+      <![CDATA[logOutPage]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-31T10:46:57 IST" name="Default suite" finished-at="2023-01-31T10:47:25 IST" duration-ms="28700">
+    <groups>
+    </groups>
+    <test started-at="2023-01-31T10:46:57 IST" name="Default test" finished-at="2023-01-31T10:47:25 IST" duration-ms="28700">
+      <class name="com.zohocrm.test.TestCrmPage">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:46:57 IST" name="openBrowser" finished-at="2023-01-31T10:47:03 IST" duration-ms="6184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:03 IST" name="loginPage" finished-at="2023-01-31T10:47:04 IST" duration-ms="1016" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loginPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="homePage()[pri:1, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:04 IST" name="homePage" finished-at="2023-01-31T10:47:14 IST" duration-ms="10012" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[homePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method is-config="true" signature="logOutPage()[pri:0, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:14 IST" name="logOutPage" finished-at="2023-01-31T10:47:14 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logOutPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutPage -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:14 IST" name="loginPage" finished-at="2023-01-31T10:47:15 IST" duration-ms="683" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loginPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="leadsPage()[pri:2, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:15 IST" name="leadsPage" finished-at="2023-01-31T10:47:25 IST" duration-ms="9768" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[leadsPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- leadsPage -->
+        <test-method is-config="true" signature="logOutPage()[pri:0, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:25 IST" name="logOutPage" finished-at="2023-01-31T10:47:25 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logOutPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.zohocrm.test.TestCrmPage@222545dc]" started-at="2023-01-31T10:47:25 IST" name="closeBrowser" finished-at="2023-01-31T10:47:25 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.zohocrm.test.TestCrmPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
